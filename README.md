@@ -3,6 +3,6 @@
 
 Dependencies:
 - Facebook C# SDK
-- CHromium Web Browser
+- Chromium Web Browser
 
 > Dependecies can be installed with Nuget Package Manager
